@@ -1,0 +1,4 @@
+com\alamin\controller\HelloController.class
+com\alamin\configuration\ApplicationConfig.class
+com\alamin\configuration\RootConfig.class
+com\alamin\configuration\WebMvcConfig.class
